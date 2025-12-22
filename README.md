@@ -13,6 +13,16 @@ emp_mange_sy
 - Qualification
 - Leaves
 - Payroll
+## Dataset
+The original dataset was imported locally into MySQL.
+Due to size/privacy reasons, the full dataset is not uploaded.
+
+Steps to reproduce:
+1. Download dataset from (source link)
+2. Run schema.sql
+3. Import CSV file
+4. Run queries.sql
+source link:https://drive.google.com/drive/folders/1jFFJEGioPj2k4hW0MhWi4_6ZveHrh5cX
 
 ## Key Features
 - Relational database design using primary & foreign keys
